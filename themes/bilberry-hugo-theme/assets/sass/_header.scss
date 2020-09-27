@@ -1,5 +1,6 @@
 header {
     background-color: $base-color;
+    background-image: url('../../images/bristol.jpg') no-repeat !important;
     color: $header-text-color;
     height: 20rem;
     display: flex;
@@ -16,6 +17,7 @@ header {
         height: 100%;
 
         &:after {
+
             content: "";
             display: block;
             position: absolute;
