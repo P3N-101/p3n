@@ -3,7 +3,7 @@ title: "P3N - Big Room Adventures Vol VI"
 date: 2020-05-01T16:12:47+01:00
 
 featuredImage: "Big Room Adventures Vol VI.png"
-categories: ['Music','Bigroom Adventures']
+categories: ['Music','Big Room Adventures','TechHouse']
 tags: ['Bigroom Adventures', 'TechHouse']
 
 # Set your audio url for

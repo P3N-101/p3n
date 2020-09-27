@@ -3,7 +3,7 @@ title: "Big Room Adventures Vol VII"
 date: 2020-06-01T16:12:47+01:00
 
 featuredImage: ""
-categories: ['Music','Bigroom Adventures','Nu-Disco']
+categories: ['Music','Big Room Adventures','Nu-Disco']
 tags: ['Bigroom Adventures', 'Nu-Disco']
 
 # Set your audio url for

@@ -3,7 +3,7 @@ title: "Big Room Adventures Vol III"
 date: 2018-06-01T16:12:47+01:00
 
 featuredImage: ""
-categories: ['Music','Bigroom Adventures']
+categories: ['Music','Big Room Adventures']
 tags: ['Bigroom Adventures', 'Trance','Techno']
 
 # Set your audio url for

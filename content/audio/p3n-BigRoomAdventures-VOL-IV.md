@@ -3,7 +3,7 @@ title: "Big Room Adventures Vol IV"
 date: 2019-08-01T16:12:47+01:00
 
 featuredImage: ""
-categories: ['Music','Bigroom Adventures']
+categories: ['Music','Big Room Adventures']
 tags: ['Bigroom Adventures', 'Tecno']
 
 # Set your audio url for
